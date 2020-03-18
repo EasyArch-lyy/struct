@@ -1,0 +1,4 @@
+/home/lyy/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lyy/桌面/MyTestC
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lyy/桌面/MyTestC/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MyTestC.dir/main.cpp.o CMakeFiles/MyTestC.dir/structure/LinkedList/intSLList.cpp.o CMakeFiles/MyTestC.dir/structure/tree/avl/AVLTree.cpp.o CMakeFiles/MyTestC.dir/structure/tree/kd/KDTree.cpp.o  -o MyTestC 

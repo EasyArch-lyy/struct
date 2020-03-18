@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyy/桌面/MyTestC/structure/tree/avl/AVLTree.cpp
+iostream
+-
+AVLTree.h
+/home/lyy/桌面/MyTestC/structure/tree/avl/AVLTree.h
+
+/home/lyy/桌面/MyTestC/structure/tree/avl/AVLTree.h
+iomanip
+-
+iostream
+-
+
+/home/lyy/桌面/MyTestC/structure/tree/kd/KDTree.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+cmath
+-
+
